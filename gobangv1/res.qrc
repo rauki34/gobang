@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>image/Asuka.jpg</file>
+        <file>image/boki.jpg</file>
+        <file>image/chess.jpg</file>
+        <file>image/chessboard.jpg</file>
+        <file>image/icon.jpg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>sound/If I Can Stop One Heart From Breaking.mp3</file>
+        <file>sound/Counter Clockwise Clock.mp3</file>
+        <file>sound/Maple.mp3</file>
+        <file>image/icon.ico</file>
+    </qresource>
+</RCC>
